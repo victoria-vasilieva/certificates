@@ -6,7 +6,7 @@ A collection of certificates from courses I’ve completed as part of my transit
 
 ## 📘 LinkedIn Learning
 
-- [Statistics Foundations 4: Advanced Topics](LinkedInLearning/statistics-foundations-4.pdf)  
+- [Statistics Foundations 4: Advanced Topics](https://github.com/victoria-vasilieva/certificates/blob/main/LinkedInLearning/CertificateOfCompletion_Statistics%20Foundations%204%20Advanced%20Topics.pdf)
   *Completed: June 2025*  
   Covered: Hypothesis testing, confidence intervals, regression, and advanced statistical reasoning.
 
